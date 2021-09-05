@@ -1,0 +1,5 @@
+# cabal
+dist-newstyle/
+
+# nix
+result
